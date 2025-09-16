@@ -12,7 +12,7 @@ export function Index() {
                 <div className="w-full lg:w-[600px]">
                     <div className="flex flex-col text-start items-center md:block">
                     <div className="font-medium text-6xl pt-2">
-                        Mohammudullaha the <br className="hidden lg:block"/> digital landscape <br className="hidden lg:block"/> for success
+                        Navigating the <br className="hidden lg:block"/> digital landscape <br className="hidden lg:block"/> for success
                     </div>
                     <div className="lg:hidden">
                         <img src="img/banner/Illustration.svg" alt=""/>
